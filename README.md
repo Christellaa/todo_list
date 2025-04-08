@@ -1,4 +1,6 @@
 # Todo list in python
+## To run it:
+`python todo.py`
 ## What you can do:
 - add a task
 - show tasks
