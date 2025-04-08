@@ -26,7 +26,6 @@ def load_tasks(filename="tasks.json"):
 		return []
 
 tasks = []
-#load_tasks()
 tasks = load_tasks()
 
 def add_task():
