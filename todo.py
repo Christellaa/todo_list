@@ -25,7 +25,6 @@ def load_tasks(filename="tasks.json"):
 		print("Error reading the file. The data may be corrupted.")
 		return []
 
-tasks = []
 tasks = load_tasks()
 
 def add_task():
